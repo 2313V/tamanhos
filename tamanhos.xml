@@ -11,19 +11,19 @@
       <combustivel>Gasolina</combustivel>
       <caixa>Manual</caixa>
       <preco>15000</preco>
-      <descricao>Anúncio de teste com fotos de carros em proporções normais.</descricao>
-      <dataAtualizacao>2026-05-28T12:00:00</dataAtualizacao>
+      <descricao>Anúncio de teste com fotos de carros em proporções normais landscape.</descricao>
+      <dataAtualizacao>2026-05-28T14:00:00</dataAtualizacao>
       <fotos>
-        <!-- 16:9 — 1280x720 -->
-        <foto>https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1280&amp;h=720&amp;fit=crop</foto>
-        <!-- 4:3 — 1200x900 -->
-        <foto>https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200&amp;h=900&amp;fit=crop</foto>
-        <!-- 4:3 — 800x600 -->
-        <foto>https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&amp;h=600&amp;fit=crop</foto>
-        <!-- 16:9 — 1920x1080 -->
-        <foto>https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1920&amp;h=1080&amp;fit=crop</foto>
-        <!-- 3:2 — 1200x800 -->
-        <foto>https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1200&amp;h=800&amp;fit=crop</foto>
+        <!-- 16:9 landscape -->
+        <foto>https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?w=1280&amp;h=720</foto>
+        <!-- 4:3 landscape -->
+        <foto>https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?w=1200&amp;h=900</foto>
+        <!-- 16:9 landscape -->
+        <foto>https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?w=1280&amp;h=720</foto>
+        <!-- 4:3 landscape -->
+        <foto>https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?w=800&amp;h=600</foto>
+        <!-- 3:2 landscape -->
+        <foto>https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg?w=1200&amp;h=800</foto>
       </fotos>
       <caracteristicas>
         <item>GPS</item>
