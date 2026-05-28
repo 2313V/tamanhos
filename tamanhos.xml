@@ -72,14 +72,30 @@
       <descricao>Fotos portrait — tamanhos variados.</descricao>
       <dataAtualizacao>2026-05-28T15:03:00</dataAtualizacao>
       <fotos>
-        <!-- 600x900 — portrait 2:3 -->
         <foto>https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&amp;w=600&amp;h=900</foto>
-        <!-- 720x1280 — portrait 9:16 -->
         <foto>https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&amp;w=720&amp;h=1280</foto>
-        <!-- 800x1200 — portrait 2:3 -->
         <foto>https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&amp;w=800&amp;h=1200</foto>
-        <!-- 1080x1920 — portrait 9:16 -->
         <foto>https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg?auto=compress&amp;w=1080&amp;h=1920</foto>
+      </fotos>
+    </carro>
+
+    <carro>
+      <id>9005</id>
+      <marca>Volkswagen</marca>
+      <modelo>Golf</modelo>
+      <versao>GTI</versao>
+      <ano>2021</ano>
+      <km>18000</km>
+      <combustivel>Gasolina</combustivel>
+      <caixa>Manual</caixa>
+      <preco>28000</preco>
+      <descricao>Fotos landscape — 900x600, 1280x720, 1200x800, 1920x1080.</descricao>
+      <dataAtualizacao>2026-05-28T15:04:00</dataAtualizacao>
+      <fotos>
+        <foto>https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&amp;w=900&amp;h=600</foto>
+        <foto>https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg?auto=compress&amp;w=1280&amp;h=720</foto>
+        <foto>https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&amp;w=1200&amp;h=800</foto>
+        <foto>https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg?auto=compress&amp;w=1920&amp;h=1080</foto>
       </fotos>
     </carro>
 
